@@ -4,6 +4,8 @@ This project demonstrates how to create and use iterators for slices in Go. It i
 
 You can read the medium article here: [Understanding Iterators In Go 1.23](https://medium.com/@matteopampana/understanding-iterators-in-go-1-23-eac5308dd49b)
 
+Support me here: [Buy me a coffee](https://www.buymeacoffee.com/matteo.pampana)
+
 ## Requirements
 
 - Go 1.23.3 or later
